@@ -1,0 +1,68 @@
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\Reproductor.exe
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\Reproductor.dll.config
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\Reproductor.deps.json
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\Reproductor.runtimeconfig.json
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\Reproductor.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\Reproductor.pdb
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\CSCore.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\MACTrackBarLib.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\NAudio.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\NAudio.Asio.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\NAudio.Core.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\NAudio.Flac.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\NAudio.Midi.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\NAudio.WinForms.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\NAudio.WinMM.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\taglib-sharp.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\Plugin.SimpleAudioPlayer.Abstractions.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\bin\Release\net7.0-windows\Plugin.SimpleAudioPlayer.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.csproj.AssemblyReference.cache
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.Form1.resources
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.Form2.resources
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.Properties.Resources.resources
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.csproj.GenerateResource.cache
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.AssemblyInfoInputs.cache
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.AssemblyInfo.cs
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.csproj.CoreCompileInputs.cache
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.csproj.CopyComplete
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\refint\Reproductor.dll
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.pdb
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\Reproductor.genruntimeconfig.cache
+C:\Users\GNZ\Desktop\Compartida\Reproductor\Reproductor\obj\Release\net7.0-windows\ref\Reproductor.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\Reproductor.exe
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\Reproductor.dll.config
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\Reproductor.deps.json
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\Reproductor.runtimeconfig.json
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\Reproductor.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\Reproductor.pdb
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\CSCore.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\MACTrackBarLib.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\NAudio.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\NAudio.Asio.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\NAudio.Core.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\NAudio.Flac.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\NAudio.Midi.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\NAudio.WinForms.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\NAudio.WinMM.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\taglib-sharp.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\Plugin.SimpleAudioPlayer.Abstractions.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\bin\Release\net7.0-windows\Plugin.SimpleAudioPlayer.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.csproj.AssemblyReference.cache
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.Form1.resources
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.Form2.resources
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.Properties.Resources.resources
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.csproj.GenerateResource.cache
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.AssemblyInfoInputs.cache
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.AssemblyInfo.cs
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.csproj.CoreCompileInputs.cache
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.csproj.CopyComplete
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\refint\Reproductor.dll
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.pdb
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\Reproductor.genruntimeconfig.cache
+C:\Users\GNZ\Desktop\Reproductor de musica sin estilo\Reproductor\obj\Release\net7.0-windows\ref\Reproductor.dll
