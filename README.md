@@ -1,9 +1,11 @@
-# Reproductor_HiFy_C-
-Primera version de un reproductor de musica de alta fidelidad de codigo abierto hecho en C# con windows forms.
+# Reproductor_HiFy_C#
+Primera versión de un reproductor de música de alta fidelidad de código abierto hecho en C# con Windows Forms.
+
 ![C# Music Player](https://github.com/Gonz007/Assets/blob/main/C%23_music_player.png)
 
 Se implementan:
-Reproductor basico
-Visor de caratulas
-Selector de paths y ajuste de volumen
-Archivo de configuraciones
+
+- Reproductor básico
+- Visor de carátulas
+- Selector de paths y ajuste de volumen
+- Archivo de configuraciones
